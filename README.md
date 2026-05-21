@@ -9,6 +9,9 @@ Wisp is a professional-grade AI system for generating comprehension questions, d
 - **Backend:** FastAPI, scikit-learn, XGBoost, Transformers (BERT).
 - **Architecture:** Modular ML logic with high-performance REST API.
 
+## Demo
+https://github.com/user-attachments/assets/52998446-6a6c-4a95-9458-124937d25241
+
 ## Data & Research Pipeline
 
 The system is built upon an extensive research phase documented in the `notebooks/` directory:
