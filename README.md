@@ -1,4 +1,4 @@
-@file:ad.mp4
+<video src="public/ad.mp4" controls width="100%"></video>
 
 # Wisp: Intelligent Reading Comprehension & Quiz System
 
@@ -6,7 +6,7 @@ Wisp is a professional-grade AI system for generating comprehension questions, d
 
 ## Demo
 
-@file:Screencast from 11-05-2026 11:13:52.webm
+<video src="demo/Screencast from 11-05-2026 11:13:52.webm" controls width="100%"></video>
 
 ## Tech Stack
 - **Frontend:** React, Tailwind CSS, Framer Motion, Material Symbols.
