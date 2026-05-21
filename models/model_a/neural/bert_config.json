@@ -1,0 +1,18 @@
+{
+  "model": "bert-base-uncased",
+  "epochs": 3,
+  "batch_size": 8,
+  "grad_accum": 2,
+  "eff_batch_size": 16,
+  "lr": 2e-05,
+  "weight_decay": 0.01,
+  "max_length": 128,
+  "warmup_ratio": 0.1,
+  "best_dev_accuracy": 0.29444570908263146,
+  "test_accuracy": 0.2977464147507398,
+  "test_macro_f1": 0.28985722149929777,
+  "test_exact_match": 0.2977464147507398,
+  "device": "cuda",
+  "fp16": true,
+  "saved_at": "2026-05-08T22:01:25"
+}
