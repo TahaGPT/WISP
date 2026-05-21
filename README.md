@@ -1,8 +1,14 @@
+<video src="public/ad.mp4" controls width="100%"></video>
+
 # Wisp: Intelligent Reading Comprehension & Quiz System
 
 https://github.com/user-attachments/assets/bd09f649-fae2-44ef-9d6a-452b76da60d5
 
 Wisp is a professional-grade AI system for generating comprehension questions, distractors, and graduated hints. It features a modern, monochromatic design powered by React + FastAPI.
+
+## Demo
+
+<video src="demo/Screencast from 11-05-2026 11:13:52.webm" controls width="100%"></video>
 
 ## Tech Stack
 - **Frontend:** React, Tailwind CSS, Framer Motion, Material Symbols.

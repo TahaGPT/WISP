@@ -1,0 +1,1 @@
+["ohe_cos_art", "tfidf_cos_art", "jaccard_q", "art_overlap", "q_overlap", "word_count", "len_ratio", "char_count", "cc_ratio", "correct_jaccard", "correct_overlap", "shared_content", "q_content_share", "in_article", "in_sentence", "position", "art_ov_diff", "unique_to_opt"]
